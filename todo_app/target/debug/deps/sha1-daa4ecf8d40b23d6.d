@@ -1,0 +1,10 @@
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/libsha1-daa4ecf8d40b23d6.rmeta: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/libsha1-daa4ecf8d40b23d6.rlib: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/sha1-daa4ecf8d40b23d6.d: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs
+
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/lib.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/soft.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha1-0.10.6/src/compress/x86.rs:

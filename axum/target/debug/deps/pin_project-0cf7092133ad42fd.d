@@ -1,0 +1,7 @@
+/home/kenshi_0334/rust_playground/axum/target/debug/deps/libpin_project-0cf7092133ad42fd.rmeta: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/kenshi_0334/rust_playground/axum/target/debug/deps/libpin_project-0cf7092133ad42fd.rlib: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/kenshi_0334/rust_playground/axum/target/debug/deps/pin_project-0cf7092133ad42fd.d: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs
+
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pin-project-1.1.5/src/lib.rs:

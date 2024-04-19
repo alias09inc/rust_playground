@@ -1,0 +1,10 @@
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/libhttparse-7c8a2d6bbc52db7d.rmeta: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs
+
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/httparse-7c8a2d6bbc52db7d.d: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs
+
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/sse42.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/avx2.rs:

@@ -1,0 +1,11 @@
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/libcookie-b5fefaba024405a9.rmeta: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/home/kenshi_0334/rust_playground/todo_app/target/debug/deps/cookie-b5fefaba024405a9.d: /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs /home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs
+
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/lib.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/builder.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/parse.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/jar.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/delta.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/draft.rs:
+/home/kenshi_0334/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.16.2/src/expiration.rs:
